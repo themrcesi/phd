@@ -6,7 +6,7 @@ import numpy as np
 st.title('¿Aprueba ChatGPT el examen MIR 2023?')
 
 DATE_COLUMN = 'date/time'
-DATA_FILE = '../MIR 2023/data/final_results.csv'
+DATA_FILE = 'streamlit/final_results.csv'
 
 hide_menu_style = """
         <style>
